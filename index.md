@@ -17,7 +17,7 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/NumPy-white?logo=NumPy)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/NumPy-white?logo=NumPy)](#)
 
 [View code on Colab](Colab Link)
 
