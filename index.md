@@ -2,9 +2,9 @@
 
 ---
 
-### Deep NLP for hate speech detection
+### Pharmaceutical Sales Forecasting Model
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+A forecasting model built with machine learning is a predictive model that utilizes machine learning algorithms to analyze historical data and make predictions about future values or events. In this project, I built a Forcasting Model utilizing Linear and Polynomial Regression to predict sales data for a selected pharmaceutical product in January 2020.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
