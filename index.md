@@ -12,8 +12,8 @@ A forecasting model built with machine learning is a predictive model that utili
 
 ---
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+### Stroke Prediction Model: ML with Random Forest, SVM, and Logistic Regression
+According to the World Health Organization (WHO), stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. In this project, I used stroke-incidence data to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.
 
 <img src="images/mobility.png?raw=true" />
 
