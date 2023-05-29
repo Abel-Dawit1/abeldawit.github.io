@@ -4,7 +4,9 @@
 
 ### Pharmaceutical Sales Forecasting Model
 
-A forecasting model built with machine learning is a predictive model that utilizes machine learning algorithms to analyze historical data and make predictions about future values or events. In this project, I built a Forcasting Model utilizing Linear and Polynomial Regression to predict sales data for a selected pharmaceutical product in January 2020.
+A forecasting model built with machine learning is a predictive model that utilizes machine learning algorithms to analyze historical data and make predictions about future values or events. 
+
+In this project, I built a Forcasting Model utilizing Linear and Polynomial Regression to predict sales data for a selected pharmaceutical product in January 2020.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/NumPy-white?logo=NumPy)](#)
 
@@ -13,7 +15,9 @@ A forecasting model built with machine learning is a predictive model that utili
 ---
 
 ### Stroke Prediction Model: ML with Random Forest, SVM, and Logistic Regression
-According to the World Health Organization (WHO), stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. In this project, I used stroke-incidence data to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.
+According to the World Health Organization (WHO), stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. 
+
+In this project, I used stroke-incidence data to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.
 
 <img src="images/mobility.png?raw=true" />
 
@@ -24,7 +28,7 @@ According to the World Health Organization (WHO), stroke is the 2nd leading caus
 ---
 
 ### College Basketball Exploratory Data Analysis (2013-2019)
-College basketball is a significant component of the sports industry in the United States. The NCAA is the organization that regulates student atheletics among its ~1100 member schools in the United States, Canada, and Puerto Rico. The March Madness tournament, officially known as the NCAA Men's Basketball Championship, is one of the most popular and highly anticipated sporting events in North America.
+The March Madness tournament, officially known as the NCAA Men's Basketball Championship, is one of the most popular and highly anticipated sporting events in North America.
 
 In this project, I explored performance data for all colleges in the March Madness tournament from 2013-2019, and tried the determine the strongest success factors for a contending team to qualify and potentially win the tournament. To accomplish this, I utilized the Pandas, Numpy, Seaborn, and Matplotlib packages to conduct analysis and generate visualizations (Historgram, Heatmap, Scatterplot, etc.). 
 
